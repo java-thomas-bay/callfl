@@ -1,7 +1,7 @@
 # callfl
 
-username: fab_lab_user
+username: trabalhofablab_user
 
-password: aD2JSIBMFgoicTlSCowZPBuBEPVdO9MX
+password:I4rOsrH0mjnJGVkzEKo2zVNZF5ZjAfWy
 
-external url: postgresql://fab_lab_user:aD2JSIBMFgoicTlSCowZPBuBEPVdO9MX@dpg-d4dhfd63jp1c738kf3v0-a.oregon-postgres.render.com/fab_lab
+external url: postgresql://trabalhofablab_user:I4rOsrH0mjnJGVkzEKo2zVNZF5ZjAfWy@dpg-d4ereuer433s738t1ma0-a.oregon-postgres.render.com/trabalhofablab
