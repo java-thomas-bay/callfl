@@ -30,7 +30,7 @@ public class AdminController {
     }
 
    @PostMapping("/login")
-    public String login(@RequestParam String email, @RequestParam String senha) {
+    public Admin login(@RequestParam String email, @RequestParam String senha) {
         return adminService.login(email, senha);
     }
 

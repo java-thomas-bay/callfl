@@ -21,12 +21,12 @@ public class AdminService {
         return adminRepository.save(admin);
     }
 
-    public String login(String email, String senha){
+    public Admin login(String email, String senha){
         Admin admin = adminRepository.findByAdmin(email, senha);
         if(admin != null && senha.equals(admin.getSenha())){
-            return "Login efetuado com sucesso!";
+            return admin;
         }
-        return "Falha ao realizar o login";
+        return null;
     }
 
     public List<Admin> listarTodos(){
