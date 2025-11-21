@@ -1,6 +1,6 @@
 # Callfl
 
-O **Callfl** é um sistema desenvolvido para auxiliar no controle e acompanhamento de aulas agendadas, concluídas ou canceladas dentro do **FabLab do SENAI**. O projeto busca oferecer uma interface simples e eficiente para que instrutores, alunos e administradores possam organizar melhor o fluxo de aulas, otimizando o uso do espaço e garantindo maior transparência no agendamento.
+O **Callfl** é um sistema desenvolvido para auxiliar no controle e acompanhamento de aulas agendadas, concluídas ou canceladas dentro do **FabLab do SENAI**. O projeto busca oferecer uma interface simples e eficiente para que instrutores, alunos e administradores possam organizar melhor o fluxo de aulas, otimizando o uso do espaço e garantindo maior transparência no agendamento.  
 
 📌 **Descrição do Projeto**
 
@@ -18,7 +18,7 @@ O Callfl tem como objetivo centralizar e facilitar o gerenciamento das aulas rea
 
 - **Evitar conflitos de horários ou sobreposição de reservas.**
 
-<ins> O sistema foi desenvolvido pensando na rotina dos instrutores e alunos, oferecendo uma solução prática para acompanhamento e organização das atividades do FabLab. </ins>
+<ins> O sistema foi desenvolvido pensando na rotina dos instrutores e alunos, oferecendo uma solução prática para acompanhamento e organização das atividades do FabLab. </ins>  
 
 
 🚀 **Funcionalidades**
@@ -35,7 +35,7 @@ O Callfl tem como objetivo centralizar e facilitar o gerenciamento das aulas rea
 
 🔐 Controle de acesso (opcional) para diferentes perfis de usuário;
 
-🖥️ Interface simples e amigável, pensando na rotina do FabLab.
+🖥️ Interface simples e amigável, pensando na rotina do FabLab.  
 
 
 👥 **Integrantes do Projeto**
