@@ -1,6 +1,6 @@
 package com.senai.infoa.trabalhofablab.models;
 
-import java.time.LocalDateTime;
+import java.time.LocalDate;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -21,7 +21,7 @@ public class Aula {
     protected Integer id;
 
     @Column(name="data")
-    protected LocalDateTime data;
+    protected LocalDate data;
 
     @Column(name="assunto")
     protected String assunto;
@@ -36,7 +36,7 @@ public class Aula {
 
     public Aula (){}
 
-    public Aula(Integer id, LocalDateTime data, String assunto, Turma turma, Admin admin) {
+    public Aula(Integer id, LocalDate data, String assunto, Turma turma, Admin admin) {
         this.id = id;
         this.data = data;
         this.assunto = assunto;
@@ -52,11 +52,11 @@ public class Aula {
         this.id = id;
     }
 
-    public LocalDateTime getData() {
+    public LocalDate getData() {
         return data;
     }
 
-    public void setData(LocalDateTime data) {
+    public void setData(LocalDate data) {
         this.data = data;
     }
 
