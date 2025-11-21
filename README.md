@@ -40,21 +40,23 @@ O Callfl tem como objetivo centralizar e facilitar o gerenciamento das aulas rea
 
 👥 **Integrantes do Projeto**
 
-Guilherme Rodrigues de Assumpção 
+- Guilherme Rodrigues de Assumpção 
 
-João Francisco Barbatti
+- João Francisco Barbatti
 
-João Pedro Miranda
+- João Pedro Miranda
 
-Pedro Henrique Francisco
+- Pedro Henrique Francisco
 
-Thomas Bayão Mathias
+- Thomas Bayão Mathias
 
--------
+📎**Link do Render**
+
+https://callfl.onrender.com/trabalhofablab/swagger-ui/index.html
+
+**INFORMAÇÕES**  
 username: trabalhofablab_user
 
 password:I4rOsrH0mjnJGVkzEKo2zVNZF5ZjAfWy
 
 external url: postgresql://trabalhofablab_user:I4rOsrH0mjnJGVkzEKo2zVNZF5ZjAfWy@dpg-d4ereuer433s738t1ma0-a.oregon-postgres.render.com/trabalhofablab
-
-render: https://callfl.onrender.com/trabalhofablab/swagger-ui/index.html
