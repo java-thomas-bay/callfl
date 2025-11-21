@@ -6,19 +6,19 @@ O **Callfl** é um sistema desenvolvido para auxiliar no controle e acompanhamen
 
 O Callfl tem como objetivo centralizar e facilitar o gerenciamento das aulas realizadas no FabLab. Com ele, é possível:
 
-- Registrar aulas agendadas;
+- **Registrar aulas agendadas;**
 
-- Marcar aulas como concluídas;
+- **Marcar aulas como concluídas;**
 
-- Registrar cancelamentos e seus motivos;
+- **Registrar cancelamentos e seus motivos;**
 
-- Administrar o calendário e agenda do laboratório;
+- **Administrar o calendário e agenda do laboratório;**
 
-- Manter o histórico de aulas e atividades;
+- **Manter o histórico de aulas e atividades;**
 
-- Evitar conflitos de horários ou sobreposição de reservas.
+- **Evitar conflitos de horários ou sobreposição de reservas.**
 
-O sistema foi desenvolvido pensando na rotina dos instrutores e alunos, oferecendo uma solução prática para acompanhamento e organização das atividades do FabLab.
+<ins> O sistema foi desenvolvido pensando na rotina dos instrutores e alunos, oferecendo uma solução prática para acompanhamento e organização das atividades do FabLab. </ins>
 
 
 🚀 **Funcionalidades**
