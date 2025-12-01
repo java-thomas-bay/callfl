@@ -57,6 +57,9 @@ https://callfl.onrender.com/trabalhofablab/swagger-ui/index.html
 📎**Link da Documentação**
 https://docs.google.com/document/d/1rYh3xXtnkgceX7ixONvrxLXhPCbqoLFw9mH_L_d1Jyo/edit?usp=drivesdk
 
+📎**Link do Canva**
+https://www.canva.com/design/DAG6NsJ09cs/WfwIBnNHReN_CnJI8RTVOg/view?utm_content=DAG6NsJ09cs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha5de5b67f6
+
 **INFORMAÇÕES**  
 username: trabalhofablab_user
 
