@@ -54,6 +54,9 @@ O Callfl tem como objetivo centralizar e facilitar o gerenciamento das aulas rea
 
 https://callfl.onrender.com/trabalhofablab/swagger-ui/index.html
 
+📎**Link da Documentação**
+https://docs.google.com/document/d/1rYh3xXtnkgceX7ixONvrxLXhPCbqoLFw9mH_L_d1Jyo/edit?usp=drivesdk
+
 **INFORMAÇÕES**  
 username: trabalhofablab_user
 
